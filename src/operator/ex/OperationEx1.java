@@ -1,4 +1,4 @@
-package variable.ex;
+package operator.ex;
 
 public class OperationEx1 {
 
